@@ -22,7 +22,7 @@ const WORKS = [
     tono: '#c98b3c',
     imagen: 'assets/juicio-zoologico.jpg',
     respaldo: 'assets/juicio-zoologico.svg',
-    lugar: 'assets/lugares/zoologico.svg',
+    lugar: 'https://github.com/PromoBlessed/Cuadro-de-Emociones/blob/9f3a6b200e4392681323b09fe252049d27c7929f/zoologico.svg',
     descripcion: 'Una historia que invita a mirar una misma situación desde distintos puntos de vista.',
     sinopsis: 'En el zoológico se desarrolla un juicio en el que los animales participan para exponer sus opiniones y cuestionar el trato que reciben de los seres humanos. A través de situaciones y argumentos, la historia presenta una reflexión sobre la justicia, la libertad y la responsabilidad hacia los animales.',
     contexto: 'Obra del escritor peruano Alberto Thieroldt que utiliza una situación ficticia y personajes animales para transmitir reflexiones sobre la sociedad y el comportamiento humano.',
